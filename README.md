@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Jake!
 
-Welcome to my portfolio! I'm a [your profession, e.g., "software developer", "data scientist", etc.] passionate about building impactful projects and learning new technologies.
+Welcome to my portfolio! I'm currently a data analyst, but I joined the field late, so I am using this space to showcase my various projects and skills that I have gathered in the data science field.
 
 ---
 

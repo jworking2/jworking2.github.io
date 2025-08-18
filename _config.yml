@@ -1,3 +1,1 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
-
-test : true
+theme: minima
